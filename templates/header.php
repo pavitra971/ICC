@@ -22,7 +22,7 @@
     <div class="container">
       <a href="#" class="center brand-logo brand-text">Post Comment</a>
        <ul id="nav-mobile" class="right hide-on-small-and-down">
-        <li><a href="add.php" class="btn brand z-depth-0">↺⋄≗⋄⪦</a></li>
+        <li><a href="add.php" class="btn brand z-depth-0">↺⋄≗⋄⪦ɑɗɗ</a></li>
          </ul>    
     </div>
 </nav>
